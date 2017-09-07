@@ -6,12 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/npisciotti1/AssassinTagFrontend.git"
-  },
+  "repository": "git+https://github.com/npisciotti1/AssassinTagFrontend.git",
   "keywords": [],
-  "author": "",
+  "author": "Nikko Pisciotti <nikko@bluelacesmusic.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/npisciotti1/AssassinTagFrontend/issues"
