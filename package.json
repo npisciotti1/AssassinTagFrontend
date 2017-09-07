@@ -1,0 +1,20 @@
+{
+  "name": "AssassinTagFrontend",
+  "version": "1.0.0",
+  "description": "Man is the most dangerous game...(frontend)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npisciotti1/AssassinTagFrontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npisciotti1/AssassinTagFrontend/issues"
+  },
+  "homepage": "https://github.com/npisciotti1/AssassinTagFrontend#readme"
+}
